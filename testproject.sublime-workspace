@@ -1,0 +1,284 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"j",
+				"jQuery.get	jQuery.get"
+			],
+			[
+				"var_",
+				"var_export"
+			],
+			[
+				"_",
+				"_i"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/sm/AppData/Roaming/Sublime Text 2/Packages/User/Git.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 471,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 336.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"jqury",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"Snippet: ",
+				"Snippet: .prev"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Contro",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"if",
+				"Snippet: Function"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 145.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/sm/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/Base File.sublime-settings",
+		"/C/Users/sm/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/C/Users/sm/Documents/code/Symfony/app/AppKernel.php",
+		"/C/Users/sm/Downloads/php-5.4.0/php.ini-development",
+		"/C/Users/sm/Documents/code/Symfony/app/Resources/views/base.html.twig",
+		"/C/Users/sm/Documents/test.sass",
+		"/C/Users/sm/Documents/test.php",
+		"/C/Users/sm/Downloads/php-5.4.0/php.ini-production",
+		"/C/Users/sm/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/sm/Documents/Steuer/test.html",
+		"/C/Users/sm/Documents/Steuer/test.html.twig",
+		"/C/Users/sm/.ssh/id_rsa.pub",
+		"/C/Users/sm/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/sm/Documents/test.js",
+		"/C/Users/sm/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/sm/AppData/Roaming/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/sm/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/C/Users/sm/AppData/Roaming/Sublime Text 2/Packages/Phpcs/phpcs.sublime-settings",
+		"/C/Users/sm/AppData/Roaming/Sublime Text 2/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/Users/sm/Documents/myproject.sublime-project",
+		"/C/Users/sm/Documents/MyTest.php",
+		"/C/Users/sm/AppData/Roaming/Sublime Text 2/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/sm/AppData/Roaming/Sublime Text 2/Packages/User/PHP.sublime-settings",
+		"/C/Users/sm/AppData/Roaming/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/C/Users/sm/Documents/test.css",
+		"/C/Users/sm/Documents/test.py",
+		"/C/Users/sm/Documents/myproject.sublime-workspace",
+		"/C/Users/sm/AppData/Roaming/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/C/Users/sm/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/sm/AppData/Roaming/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/C/Users/sm/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"timezo",
+			"ctrl+d",
+			"ctrl+l",
+			"__construct",
+			"()",
+			"jump",
+			"matching",
+			"	",
+			"test",
+			"ctrl+d",
+			"delete",
+			"line",
+			"delete",
+			"endo",
+			"font",
+			"Test",
+			"s_test",
+			"array",
+			"import",
+			" ",
+			"Test"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/sm/AppData/Roaming/Sublime Text 2/Packages/User/Git.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mytest",
+				"MyTest.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true
+}
